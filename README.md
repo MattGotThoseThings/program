@@ -1,4 +1,6 @@
 # How to instale
+go to releases
+
 just download the zip.
 
 After, extract the zip. Then there's going to be the file "yeah.py"
@@ -11,3 +13,5 @@ For windows, it's the same but for CMD
 
 # This "game" is still getting work on
 My knowledge of coding isn't great. Expect any errors
+
+# gifs if you get confused
