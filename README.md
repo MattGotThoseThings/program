@@ -17,3 +17,8 @@ My knowledge of coding isn't great. Expect any errors
 # gifs if you get confused
 
 ![](https://github.com/matthecool1/yeah/blob/main/gifs/help1.gif)
+
+
+# also, say hi to mr skeltal
+
+![](https://github.com/matthecool1/yeah/blob/main/gifs/mr-skeltal.gif) (doot)
