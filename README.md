@@ -15,3 +15,5 @@ For windows, it's the same but for CMD
 My knowledge of coding isn't great. Expect any errors
 
 # gifs if you get confused
+
+![](https://github.com/matthecool1/yeah/blob/main/gifs/help1.gif)
